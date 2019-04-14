@@ -4,6 +4,12 @@ This is a collection of various Textures and Brushes for the Unity Terrain Stamp
 
 When I started with Unity I got terrain height maps from other developer who shared them for free, so I thought I'd give back to this awesome community :-)
 
+A typical use case is to stamp the textures on a terrain and then apply the terrain textures via a rule-set supporting Asset.
+
+Example:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mC2um7rmNOA/0.jpg)](https://www.youtube.com/watch?v=mC2um7rmNOA)
+
 ## About the Textures
 
 The Textures for the Stamps were generated procedurally using World Creator 2. 
