@@ -35,6 +35,10 @@ https://github.com/Roland09/StampToolExtended
 
 Let's hope Unity will support this in a future release out of the box.
 
+## Requirements
+
+* Unity 2018.3+
+
 ## Credits & Greetings
 
 Credits and greetings to the developers of World Creator 2 and the awesome community on the World Creator discord. Without their hard work this wouldn't have been possible so easily. And the help and support you get from the community is most remarkable.
