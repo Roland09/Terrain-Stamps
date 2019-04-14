@@ -6,7 +6,7 @@ When I started with Unity I got terrain height maps from other developers who sh
 
 A typical use case is to Stamp the Textures on a Terrain and then apply Terrain Textures (grass, rock, etc) via a rule-set supporting Asset.
 
-Example:
+Example video (click to play):
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mC2um7rmNOA/0.jpg)](https://www.youtube.com/watch?v=mC2um7rmNOA)
 
