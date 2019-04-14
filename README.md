@@ -2,9 +2,9 @@
 
 This is a collection of various Textures and Brushes for the Unity Terrain Stamp Tool.
 
-When I started with Unity I got terrain height maps from other developer who shared them for free, so I thought I'd give back to this awesome community :-)
+When I started with Unity I got terrain height maps from other developers who shared them for free, so I thought I'd give back to this awesome community :-)
 
-A typical use case is to stamp the textures on a terrain and then apply the terrain textures via a rule-set supporting Asset.
+A typical use case is to Stamp the Textures on a Terrain and then apply Terrain Textures (grass, rock, etc) via a rule-set supporting Asset.
 
 Example:
 
