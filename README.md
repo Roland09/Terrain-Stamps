@@ -4,7 +4,7 @@ This is a collection of various textures and brushes for the Unity Terrain Stamp
 
 When I started with Unity I got terrain height maps from other developers who shared them for free, so I thought I'd give back to this awesome community :-)
 
-A typical use case is to stamp on a terrain and then apply terrain textures (grass, rock, etc) via a rule-set supporting Asset.
+A typical use case is to stamp on a terrain and then apply terrain textures (grass, rock, etc) via a rule-set supporting asset (e. g. Vegetation Studio Pro with Meadow Environment).
 
 Example video (click to play):
 
@@ -25,7 +25,7 @@ A few example screenshots to see how the stamps in this repository look like:
 ![example 1](https://user-images.githubusercontent.com/10963432/56093533-3d845c00-5eca-11e9-8a85-772f17bbc059.jpg)
 ![example 2](https://user-images.githubusercontent.com/10963432/56093535-3d845c00-5eca-11e9-9f80-c32c281f07d1.jpg)
 
-Maybe download the repository and check out all of them with an image viewer.
+Maybe download the repository and check out all of them with an image viewer to get a better overview.
 
 ## Additional Information
 
@@ -37,7 +37,7 @@ Let's hope Unity will support this in a future release out of the box.
 
 ## Credits & Greetings
 
-Credits and greetings to the developers of World Creator 2 and the awesome community on the World Creator discord. Without their hard work this wouldn't have been possible so easily. And the help and support you get from the community is remarkable.
+Credits and greetings to the developers of World Creator 2 and the awesome community on the World Creator discord. Without their hard work this wouldn't have been possible so easily. And the help and support you get from the community is most remarkable.
 
 
 
