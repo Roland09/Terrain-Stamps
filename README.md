@@ -2,22 +2,24 @@
 
 This is a collection of various Textures and Brushes for the Unity Terrain Stamp Tool.
 
+When I started with Unity I got terrain height maps from other developer who shared them for free, so I thought I'd give back to this awesome community :-)
+
 ## About the Textures
 
 The Textures for the Stamps were generated procedurally using World Creator 2. 
 
-World Creator 2 is a very powerful real-time terrain generator. You can check it out here, if you are interested:
+World Creator 2 is a very powerful real-time terrain generator. Creating those terrains took only a few minues. You can check out World Creator 2 here, if you are interested:
 
 http://world-creator.com
 
-It took only minutes to create these terrains with this professional application. So I thought I'd share for free :-)
-
-A few example screenshots to see how the stamps look like:
+A few example screenshots to see how the stamps in this repository look like:
 
 ![example 3](https://user-images.githubusercontent.com/10963432/56093531-3cebc580-5eca-11e9-9655-6851abfd1f53.jpg)
 ![example 4](https://user-images.githubusercontent.com/10963432/56093532-3cebc580-5eca-11e9-8ac2-af85f0ce0074.jpg)
 ![example 1](https://user-images.githubusercontent.com/10963432/56093533-3d845c00-5eca-11e9-8a85-772f17bbc059.jpg)
 ![example 2](https://user-images.githubusercontent.com/10963432/56093535-3d845c00-5eca-11e9-9f80-c32c281f07d1.jpg)
+
+Maybe download the repository and check out all of them with an image viewer.
 
 ## Additional Information
 
