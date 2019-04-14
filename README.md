@@ -12,7 +12,7 @@ http://world-creator.com
 
 It took only minutes to create these terrains with this professional application. So I thought I'd share for free :-)
 
-A few example screenshots whot the stamps look like:
+A few example screenshots to see how the stamps look like:
 
 ![example 3](https://user-images.githubusercontent.com/10963432/56093531-3cebc580-5eca-11e9-9655-6851abfd1f53.jpg)
 ![example 4](https://user-images.githubusercontent.com/10963432/56093532-3cebc580-5eca-11e9-8ac2-af85f0ce0074.jpg)
