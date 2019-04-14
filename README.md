@@ -1,4 +1,4 @@
-# Terrain-Stamps
+# Terrain Stamps
 
 This is a collection of various Textures and Brushes for the Unity Terrain Stamp Tool.
 
